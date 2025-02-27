@@ -36,7 +36,7 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '特性', // 特性
   STARTER_FEATURE_TEXT_1: 'Starflow的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'BayesQ的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 ', // 特性
+    '曜变 YAO-ION的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '简单且高效', // 特性1
   STARTER_FEATURE_1_TEXT_1: '所有员工均可快速上手', // 特性1
@@ -63,7 +63,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '一套轻量且智能的营销解决方案',
   STARTER_ABOUT_TEXT:
-    'BayesQ的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 <br /> <br /> 功能强大的RPA，简单快速实现自动化跟进客户',
+    '曜变 YAO-ION的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 <br /> <br /> 功能强大的RPA，简单快速实现自动化跟进客户',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -326,7 +326,7 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '渠道合作',
       LINK_GROUP: [
         {
           TITLE: 'Notion开始写作',
