@@ -16,9 +16,9 @@ const CONFIG = {
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://mwl7eu6k5hr.feishu.cn/slides/UUP3seJNTlTLdPdbIkHcrUT3niV?from=from_copylink', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/JOZUJIOJIO', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
+  STARTER_HERO_BUTTON_2_TEXT: '查看最新硬件', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://mwl7eu6k5hr.feishu.cn/wiki/EXxFwblFgiWLupkijv8cpbL5nRc?from=from_copylink', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
