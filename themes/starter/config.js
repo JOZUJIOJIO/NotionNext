@@ -61,7 +61,7 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量且智能的营销解决方案',
+  STARTER_ABOUT_TITLE: '轻量且智能的营销解决方案',
   STARTER_ABOUT_TEXT:
     '曜变 YAO-ION的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 <br /> <br /> 功能强大的RPA，简单快速实现自动化跟进客户',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
@@ -208,7 +208,7 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        '/images/starter/team/team-01.png',
+        '/images/starter/team/team-04.png',
       STARTER_TEAM_ITEM_NICKNAME: '启曜',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
