@@ -25,15 +25,15 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
-  STARTER_NAV_BUTTON_1_URL: '/sign-in',
+  STARTER_NAV_BUTTON_1_TEXT: '注册',
+  STARTER_NAV_BUTTON_1_URL: '登录',
 
   STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
   STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
+  STARTER_FEATURE_TITLE: '软件产品', // 特性
   STARTER_FEATURE_TEXT_1: 'Starflow的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
     '曜变 YAO-ION的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 ', // 特性
@@ -41,23 +41,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '简单且高效', // 特性1
   STARTER_FEATURE_1_TEXT_1: '所有员工均可快速上手', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://mwl7eu6k5hr.feishu.cn/slides/UUP3seJNTlTLdPdbIkHcrUT3niV?from=from_copylink', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '多种订阅方式', // 特性2
   STARTER_FEATURE_2_TEXT_1: '包年，买断，总有一种价格适合你', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://mwl7eu6k5hr.feishu.cn/slides/UUP3seJNTlTLdPdbIkHcrUT3niV?from=from_copylink', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
   STARTER_FEATURE_3_TEXT_1: '基于DEEPSEEK+RPA开发，更快的响应速度', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://mwl7eu6k5hr.feishu.cn/slides/UUP3seJNTlTLdPdbIkHcrUT3niV?from=from_copylink', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '安全有保障', // 特性4
   STARTER_FEATURE_4_TEXT_1: '完全模拟人的操作，几乎无封号风险', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://mwl7eu6k5hr.feishu.cn/slides/UUP3seJNTlTLdPdbIkHcrUT3niV?from=from_copylink', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '曜变 YAO-ION的愿景是帮助您简单、无感知地稳定地使用人工智能，放大品牌的价值。 <br /> <br /> 功能强大的RPA，简单快速实现自动化跟进客户',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://mwl7eu6k5hr.feishu.cn/docx/PwDDdYBl1oDwD7xu2bIcex1Unpe?from=from_copylink',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
