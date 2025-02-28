@@ -25,10 +25,10 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: '注册',
-  STARTER_NAV_BUTTON_1_URL: '登录',
+  STARTER_NAV_BUTTON_1_TEXT: '登录',
+  STARTER_NAV_BUTTON_1_URL: '/sign-in',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
+  STARTER_NAV_BUTTON_2_TEXT: '注册',
   STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
   // 特性区块
